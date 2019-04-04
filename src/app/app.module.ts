@@ -10,7 +10,7 @@ import { UserComponent } from './user/user.component';
   declarations: [
     AppComponent,
     VoterComponent,
-    Usercomponent
+    UserComponent
   ],
   imports: [
     BrowserModule,
